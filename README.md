@@ -8,7 +8,7 @@ Algorithm.ipynb provides the pipeline for extracting and comparing transition ma
 
 ## Datasets
 
-### Core Data Folder
+### Core Data Zip Files 
 
 COVID_kitchen.csv is the raw activity data for the 21-household subset of our study cohort on which statistical analyses were conducted to investigate the effect of the COVID-19 pandemic on kitchen activity.
 
