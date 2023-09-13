@@ -4,9 +4,15 @@
 
 ### Statistics
 
-Statistical Analyses.ipynb provides the pipeline for generating datasets for the statistical analyses using the COVID_kitchen dataset in the 'Core Data Zip Files' folder. 
+Statistical Analyses.ipynb provides the pipeline for generating the datasets needed for the statistical analyses presented in the paper. To derive these datasets locally, download the 'COVID_kitchen' dataset in the 'Core Data Zip Files' folder and run Statistical Analyses.ipynb. 
 
-Using the datasets in the 'Datasets for Statistical Analyses' folder, you can use the instructions in this 'Statistical Analyses' section of the Statistical Analyses.ipynb to access the liner mixed-effects regression (LMER) modelling packages in R. Alternatively,
+Alternatively, you can downloaded the datasets needed for the statistical analyses from the 'Datasets for Statistical Analyses' folder.
+
+To conduct the statistical experiments locally, you will need to install and download R and RStudio. See https://posit.co/download/rstudio-desktop/ for more information on dowloading and installing R and RStudio for desktop. 
+
+You will then need to load the datasets needed for the statistical analyses into RStudio. Following the instructions in this 'Statistical Analyses' section of the Statistical Analyses.ipynb, you can then access the liner mixed-effects regression (LMER) modelling packages in R and model the effects of the pandemic, pandemic periods, household occupancy, and time of day on kitchen activity. 
+
+Alternatively, you can download the and load this straight into RStudio. In this case, the models will
 
 ### Algorithm
 
