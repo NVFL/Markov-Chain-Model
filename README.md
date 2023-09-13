@@ -2,7 +2,13 @@
 
 ## Code 
 
-Statistical Analyses.ipynb provides the pipeline for generating datasets for the statistical analyses using the COVID_kitchen dataset in the core data folder. Alternatively, using the datasets in the Datasets for Statistical Analyses folder, you can use the instructions in this Statistical Analyses section of this code to access the liner mixed-effects regression (LMER) modelling packages in R.
+### Statistics
+
+Statistical Analyses.ipynb provides the pipeline for generating datasets for the statistical analyses using the COVID_kitchen dataset in the 'Core Data Zip Files' folder. 
+
+Using the datasets in the 'Datasets for Statistical Analyses' folder, you can use the instructions in this 'Statistical Analyses' section of the Statistical Analyses.ipynb to access the liner mixed-effects regression (LMER) modelling packages in R. Alternatively,
+
+### Algorithm
 
 Algorithm.ipynb provides the pipeline for extracting and comparing transition matrices using a sliding window function, as referred to in the paper entitled "A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia". This pipeline can be applied to the COVID_kitchen_ or kitchen_ datasets in the core data folder.
 
