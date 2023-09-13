@@ -12,7 +12,7 @@ To conduct the statistical experiments locally, you will need to install and dow
 
 You will then need to load the datasets needed for the statistical analyses into RStudio. Following the instructions in this 'Statistical Analyses' section of the Statistical Analyses.ipynb, you can then access the liner mixed-effects regression (LMER) modelling packages in R and model the effects of the pandemic, pandemic periods, household occupancy, and time of day on kitchen activity. 
 
-Alternatively, you can download the and load this straight into RStudio. In this case, the models will
+Alternatively, you can download Statistical Analyses.RData and load this straight into RStudio. In this case, the effects have already been modelled as detailed in the paper. You can then just print the summary or anova results of each model using the code 'print(summary(model))' or 'print(anova(model))', respectively.
 
 ### Algorithm
 
