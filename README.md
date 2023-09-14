@@ -1,5 +1,13 @@
 # A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia
 
+## Dependencies
+
+In order to generate the datasets and run the statistical experiments and algorithm, your environment will need to contains the following main packages:
+
+pandas (pd=2.0.1)
+numpy (np=1.24.4)
+scipy (scipy=1.8.0)
+
 ## Code 
 
 ### Statistics
