@@ -1,5 +1,7 @@
 # A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia
 
+This repository contains the code for the statistical tests and algorithm described in the paper "[A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194)".
+
 ## Dependencies
 
 In order to generate the datasets and run the statistical experiments and algorithm, your environment will need to contains the following main packages:
