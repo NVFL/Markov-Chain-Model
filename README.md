@@ -1,14 +1,14 @@
 # A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia
 
-This repository contains the code for the statistical tests and algorithm described in the paper "[A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194)".
+This repository contains the code for the statistical tests and algorithm described in the paper "[A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194)". We have also included anonymized data.
 
 ## Dependencies
 
 In order to generate the datasets and run the statistical experiments and algorithm, your environment will need to contains the following main packages:
 
-- pandas 2.0.1
-- numpy 1.24.4
-- scipy 1.8.0
+- `pandas 2.0.1`
+- `numpy 1.24.4`
+- `scipy 1.8.0`
 
 ## Code 
 
@@ -61,3 +61,16 @@ Nan Fletcher-Lloyd
 ## Citation
 
 If you use this code in any way, please refer to it by citing my paper "[A Markov Chain Model for Identifying Changes in Daily Activity Pattern of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194)":
+
+- Bibtex:
+```
+@article{fletcher-lloyd2023markov,
+	author={Nan Fletcher-Lloyd and Alina-Irina Serban and Magdalena Kolanko and David Wingfield and Danielle Wilson and Ramin Nilforooshan and Payam Barnaghi and Eyal Soreq},
+	year={2023},
+	title={A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia},
+	journal={IEEE internet of things journal},
+	isbn={2327-4662},
+	doi={10.1109/JIOT.2023.3291652}
+}
+```
+
