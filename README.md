@@ -58,4 +58,4 @@ Nan Fletcher-Lloyd
 
 ## Citation
 
-If you use this code in any way, please refer to it by citing my paper "":
+If you use this code in any way, please refer to it by citing my paper "[A Markov Chain Model for Identifying Changes in Daily Activity Pattern of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194)":
