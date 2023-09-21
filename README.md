@@ -51,3 +51,7 @@ Period_occupancy.csv is the aggregated activity data for investigating the inter
 COVID_tod.csv is the aggregated activity data for investigating the interaction between the COVID-19 pandemic and time of day on kitchen activity.
 
 Period_tod.csv is the aggregated activity data for investigating the interaction between the individual COVID-19 pandemic periods and time of day on kitchen activity.
+
+### Contact
+
+Nan Fletcher-Lloyd 
