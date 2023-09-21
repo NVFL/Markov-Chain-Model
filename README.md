@@ -55,3 +55,7 @@ Period_tod.csv is the aggregated activity data for investigating the interaction
 ### Contact
 
 Nan Fletcher-Lloyd 
+
+## Citation
+
+If you use this code in any way, please refer to it by citing my paper "":
