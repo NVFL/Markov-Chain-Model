@@ -54,10 +54,6 @@ COVID_tod.csv is the aggregated activity data for investigating the interaction 
 
 Period_tod.csv is the aggregated activity data for investigating the interaction between the individual COVID-19 pandemic periods and time of day on kitchen activity.
 
-### Contact
-
-Nan Fletcher-Lloyd 
-
 ## Citation
 
 If you use this code in any way, please refer to it by citing my paper "[A Markov Chain Model for Identifying Changes in Daily Activity Pattern of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194)":
@@ -73,4 +69,6 @@ If you use this code in any way, please refer to it by citing my paper "[A Marko
 	doi={10.1109/JIOT.2023.3291652}
 }
 ```
+## Contact
 
+This code in maintained by Nan Fletcher-Lloyd. 
