@@ -56,7 +56,7 @@ Period_tod.csv is the aggregated activity data for investigating the interaction
 
 ## Citation
 
-If you use this code in any way, please refer to it by citing my paper "[A Markov Chain Model for Identifying Changes in Daily Activity Pattern of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194)":
+If you use this code in any way, please refer to it by citing my paper "[A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia](https://ieeexplore.ieee.org/document/10171194)":
 
 - Bibtex:
 ```
