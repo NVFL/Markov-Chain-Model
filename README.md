@@ -68,6 +68,7 @@ If you use this code in any way, please refer to it by citing my paper "[A Marko
 	journal={IEEE Internet of Things Journal},
 	volume={11},
 	number={2},
+	pages={1},
 	isbn={2327-4662},
 	url={https://ieeexplore.ieee.org/document/10171194},
 	doi={10.1109/JIOT.2023.3291652}
