@@ -60,12 +60,16 @@ If you use this code in any way, please refer to it by citing my paper "[A Marko
 
 - Bibtex:
 ```
-@article{fletcher-lloyd2023markov,
+@article{Fletcher-Lloyd,
 	author={Nan Fletcher-Lloyd and Alina-Irina Serban and Magdalena Kolanko and David Wingfield and Danielle Wilson and Ramin Nilforooshan and Payam Barnaghi and Eyal Soreq},
-	year={2023},
+	year={2024},
+	month={January 15},
 	title={A Markov Chain Model for Identifying Changes in Daily Activity Patterns of People Living with Dementia},
-	journal={IEEE internet of things journal},
+	journal={IEEE Internet of Things Journal},
+	volume={11},
+	number={2},
 	isbn={2327-4662},
+	url={https://ieeexplore.ieee.org/document/10171194},
 	doi={10.1109/JIOT.2023.3291652}
 }
 ```
